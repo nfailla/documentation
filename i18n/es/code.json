@@ -1,82 +1,82 @@
 {
     "pages.home.features.title": {
-        "message": "Features",
+        "message": "Características",
         "description": "Features"
     },
     "pages.home.features.logic.title": {
-        "message": "Explicit business logic",
+        "message": "Lógica de negocio explícita",
         "description": "Feature title"
     },
     "pages.home.features.logic.description": {
-        "message": "Easily discoverable architecture thanks to domain scopes",
+        "message": "Arquitectura fácil de dominar gracias al uso de dominios modulares",
         "description": "Feature description"
     },
     "pages.home.features.adaptability.title": {
-        "message": "Adaptability",
+        "message": "Adaptabilidad",
         "description": "Feature title"
     },
     "pages.home.features.adaptability.description": {
-        "message": "Architecture components can be flexibly replaced and added for new requirements",
+        "message": "Componentes de arquitectura fáciles de reemplazar o agregar ante nuevos requerimientos",
         "description": "Feature description"
     },
     "pages.home.features.debt.title": {
-        "message": "Tech debt & Refactoring",
+        "message": "Deuda técnica",
         "description": "Feature title"
     },
     "pages.home.features.debt.description": {
-        "message": "Each module can be independently modified / rewritten without side effects",
+        "message": "Cada módulo puede cambiarse o ser reescrito de forma independiente, sin efectos secundarios",
         "description": "Feature description"
     },
     "pages.home.features.shared.title": {
-        "message": "Explicit code reuse",
+        "message": "Reuso de código explícito",
         "description": "Feature title"
     },
     "pages.home.features.shared.description": {
-        "message": "A balance is maintained between DRY and local customization",
+        "message": "Balance entre DRY y la personalización local",
         "description": "Feature description"
     },
     "pages.home.concepts.title": {
-        "message": "Concepts",
+        "message": "Conceptos",
         "description": "Concepts"
     },
     "pages.home.concepts.public.title": {
-        "message": "Public API",
+        "message": "API pública",
         "description": "Concept title"
     },
     "pages.home.concepts.public.description": {
-        "message": "Each module must have a declaration of its public API at the top level",
+        "message": "Cada módulo debe declarar su API pública en el nivel superior",
         "description": "Concept description"
     },
     "pages.home.concepts.isolation.title": {
-        "message": "Isolation",
+        "message": "Independencia",
         "description": "Concept title"
     },
     "pages.home.concepts.isolation.description": {
-        "message": "The module should not depend directly on other modules of the same layer or overlying layers",
+        "message": "Un módulo no debe depender directamente de otros módulos en la misma capa, ni en superiores",
         "description": "Concept description"
     },
     "pages.home.concepts.needs.title": {
-        "message": "Needs Driven",
+        "message": "Dirigido a requerimientos",
         "description": "Concept title"
     },
     "pages.home.concepts.needs.description": {
-        "message": "Orientation to business and user needs",
+        "message": "Orientado a las necesidades del negocio y del usuario",
         "description": "Concept description"
     },
     "pages.home.scheme.title": {
-        "message": "Scheme",
+        "message": "Esquema",
         "description": "Scheme"
     },
     "pages.home.companies.using": {
-        "message": "Companies using FSD",
+        "message": "Compañías que usan FSD",
         "description": "Companies using FSD"
     },
     "pages.home.companies.add_me": {
-        "message": "FSD is used in your company?",
+        "message": "¿Su compañía usa FSD?",
         "description": "FSD is used in your company?"
     },
     "pages.home.companies.tell_us": {
-        "message": "Tell us",
+        "message": "Cuéntenos",
         "description": "Tell us"
     },
     "pages.examples.title": {
@@ -160,19 +160,19 @@
         "description": "DocFeedback block=Subtitle"
     },
     "features.hero.tagline": {
-        "message": "Architectural methodology for frontend projects",
+        "message": "Metodología de arquitectura para proyectos frontend",
         "description": "Architectural methodology for frontend projects"
     },
     "features.hero.get_started": {
-        "message": "Get Started",
+        "message": "Empezar",
         "description": "Get Started"
     },
     "features.hero.examples": {
-        "message": "Examples",
+        "message": "Ejemplos",
         "description": "Examples"
     },
     "features.hero.previous": {
-        "message": "Previous version",
+        "message": "Versión previa",
         "description": "Previous version"
     },
     "shared.wip.title": {
