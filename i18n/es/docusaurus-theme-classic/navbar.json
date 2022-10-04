@@ -1,0 +1,50 @@
+{
+    "title": {
+        "message": "",
+        "description": "The title in the navbar"
+    },
+    "item.label.🛠 Examples": {
+        "message": "🛠 Ejemplos",
+        "description": "Navbar item with label Examples"
+    },
+    "item.label.📖 Docs": {
+        "message": "📖 Documentación",
+        "description": "Navbar item with label Docs"
+    },
+    "item.label.🔎 Intro": {
+        "message": "🔎 Introducción",
+        "description": "Navbar item with label Intro"
+    },
+    "item.label.🚀 Get Started": {
+        "message": "🚀 Empezar",
+        "description": "Navbar item with label Get Started"
+    },
+    "item.label.🧩 Concepts": {
+        "message": "🧩 Conceptos",
+        "description": "Navbar item with label Concepts"
+    },
+    "item.label.🎯 Guides": {
+        "message": "🎯 Guías",
+        "description": "Navbar item with label Guides"
+    },
+    "item.label.📚 Reference": {
+        "message": "📚 Referencia",
+        "description": "Navbar item with label Reference"
+    },
+    "item.label.🍰 About": {
+        "message": "🍰 Acerca de FSD",
+        "description": "Navbar item with label About"
+    },
+    "item.label.💫 Community": {
+        "message": "💫 Comunidad",
+        "description": "Navbar item with label Community"
+    },
+    "item.label.❔ Help": {
+        "message": "❔ Ayuda",
+        "description": "Navbar item with label Help"
+    },
+    "item.label.📝 Blog": {
+        "message": "📝 Blog",
+        "description": "Navbar item with label Blog"
+    }
+}
